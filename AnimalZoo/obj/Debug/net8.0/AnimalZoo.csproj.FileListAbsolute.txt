@@ -1,0 +1,14 @@
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\bin\Debug\net8.0\AnimalZoo.exe
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\bin\Debug\net8.0\AnimalZoo.deps.json
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\bin\Debug\net8.0\AnimalZoo.runtimeconfig.json
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\bin\Debug\net8.0\AnimalZoo.dll
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\bin\Debug\net8.0\AnimalZoo.pdb
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.AssemblyInfoInputs.cache
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.AssemblyInfo.cs
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.csproj.CoreCompileInputs.cache
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.dll
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\refint\AnimalZoo.dll
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.pdb
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.genruntimeconfig.cache
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\ref\AnimalZoo.dll
