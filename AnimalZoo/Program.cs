@@ -243,6 +243,9 @@ class Program{
           Console.WriteLine("\nWhich animal would you like to add?");
           Console.WriteLine("1) Parrot\n2) Penguin\n3) Ant\n4) Cat");
           char animalType = Console.ReadKey(true).KeyChar;
+          if (animalType < 4){
+            throw new Troubleshoot();
+          }
 
           Console.Write("\nEnter the animal's name: ");
           string name = Console.ReadLine();
@@ -303,7 +306,11 @@ class Program{
           break;
 
         case '4':
-          operations.GreetAnimals();
+           if (operations.Animals.Count > 0){
+            operations.GreetAnimals();
+          } else {
+            Console.WriteLine("There are no animals to greet in the zoo.");
+          }
           break;
 
         case '5':
