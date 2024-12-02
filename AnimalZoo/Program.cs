@@ -243,7 +243,7 @@ class Program{
           Console.WriteLine("\nWhich animal would you like to add?");
           Console.WriteLine("1) Parrot\n2) Penguin\n3) Ant\n4) Cat");
           char animalType = Console.ReadKey(true).KeyChar;
-          if (animalType < '4'){
+          if (animalType > '4'){
             throw new Troubleshoot();
             
           }
