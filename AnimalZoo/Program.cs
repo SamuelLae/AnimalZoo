@@ -245,6 +245,7 @@ class Program{
           char animalType = Console.ReadKey(true).KeyChar;
           if (animalType < 4){
             throw new Troubleshoot();
+            
           }
 
           Console.Write("\nEnter the animal's name: ");
@@ -307,6 +308,7 @@ class Program{
 
         case '4':
            if (operations.Animals.Count > 0){
+            Console.WriteLine(operations.Animals.Count());
             operations.GreetAnimals();
           } else {
             Console.WriteLine("There are no animals to greet in the zoo.");
