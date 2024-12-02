@@ -12,3 +12,4 @@ C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\re
 C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.pdb
 C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.genruntimeconfig.cache
 C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\ref\AnimalZoo.dll
+C:\Users\sl8342\OneDrive\Programering\c#\AnimalZoo\AnimalZoo\obj\Debug\net8.0\AnimalZoo.sourcelink.json

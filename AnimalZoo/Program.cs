@@ -228,7 +228,7 @@ class Program{
     bool zooLoop = true;
     while (zooLoop){
       Console.Clear();
-      Console.WriteLine("Welcome to the Zoo Management System!");
+      Console.WriteLine("Welcome to Tannbergsskolans Zoo!");
       Console.WriteLine("1) Add Animal");
       Console.WriteLine("2) Remove Animal");
       Console.WriteLine("3) Show First Animal");
